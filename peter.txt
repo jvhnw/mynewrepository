@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 20F4-6C74
+
+ Directory of C:\Data-LapTop\NW\code\myproject-local
+
+10/24/2019  05:01 PM    <DIR>          .
+10/24/2019  05:01 PM    <DIR>          ..
+10/24/2019  03:08 PM               364 jvanhoorn.txt
+10/24/2019  05:01 PM                 0 peter.txt
+               2 File(s)            364 bytes
+               2 Dir(s)  892,755,759,104 bytes free
